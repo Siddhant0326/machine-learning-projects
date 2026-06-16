@@ -36,10 +36,10 @@ machine-learning-projects/
 
 | Category | Project | Algorithm |
 |-----------|-----------|------------|
-| Classification | Breast Cancer Prediction | Logistic Regression |
+| Classification | Cancer Prediction | Logistic Regression |
 | Classification | Credit Card Fraud Detection | Logistic Regression |
 | Classification | Diabetes Prediction | Logistic Regression |
-| Classification | Breast Cancer Classification | Decision Tree, Random Forest, Logistic Regression |
+| Classification | Cancer Classification | Decision Tree, Random Forest, Logistic Regression |
 | Regression | Agricultural Yield Prediction | Linear Regression |
 | Regression | Ice Cream Sales Prediction | Polynomial Regression |
 
