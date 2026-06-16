@@ -1,10 +1,10 @@
-# 🚀 Machine Learning Projects
+#  Machine Learning Projects
 
 A collection of Machine Learning projects implementing core **Supervised Learning** algorithms using **Python** and **Scikit-Learn**. This repository contains practical examples of both **Classification** and **Regression** techniques, covering data preprocessing, model training, evaluation, and visualization.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 machine-learning-projects/
@@ -32,7 +32,7 @@ machine-learning-projects/
 
 ---
 
-## 📊 Projects Included
+##  Projects Included
 
 | Category | Project | Algorithm |
 |-----------|-----------|------------|
@@ -45,7 +45,7 @@ machine-learning-projects/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - NumPy
@@ -57,7 +57,7 @@ machine-learning-projects/
 
 ---
 
-## 📚 Concepts Covered
+##  Concepts Covered
 
 ### Data Preprocessing
 - Data Loading
@@ -89,7 +89,7 @@ machine-learning-projects/
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 By exploring these projects, you will learn:
 
@@ -102,7 +102,7 @@ By exploring these projects, you will learn:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
